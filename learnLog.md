@@ -1,0 +1,1 @@
+1. 2025-02-21 review Lecture3part2, still confused by round error, should revisit IEEE 754 standard
